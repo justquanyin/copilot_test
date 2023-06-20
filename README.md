@@ -1,2 +1,2 @@
 # copilot_test
-copilot
+copilot init
